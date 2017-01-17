@@ -24,3 +24,6 @@
     "webpack-hot-middleware": "^2.9.1"
   }
 }
+npm i -g getstorybook
+cd my-react-app
+getstorybook
